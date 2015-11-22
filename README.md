@@ -22,3 +22,12 @@ Sounds from the game were ripped off of the Blizzard game Hearthstone, they fit 
 After pulling this repo, doubleclick the jar and the game should start right up!
 
 Have fun
+
+The game was quickly done, in an effort to produce a game while working on a separate, larger game. It was a confidence thing to complete a smaller game to get something done in order to know that the other larger game, could be finshed. 
+
+Because this game gave the motivation needed to continue, there are a lot of loose ends I may or may not clean up, including...
+
+1.) centering menu text
+2.) adding an arrow to indicate where the user is in the menu selection
+3.) smoothing text when the game starts not just after a death
+4.) make the game more difficult as it goes on so its not so boring
